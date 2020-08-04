@@ -1,11 +1,10 @@
-# Project 3: Modeling Water Pollution :ocean:
-### Project Authors: 
+# Booz Allen Hamilton Hackathon 2020 - Project 3: Modeling Water Pollution :droplet:
+## Project Authors: 
 Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange) <br>
-Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky) 
+Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky) <br>
 Nic Ballarini
 ---
-# Booz Allen Hamilton Hackathon 2020 
-## Guiding Questions:
+## Guiding Questions: :ocean:
 
 * How does land cover, land use, and/or geology describe the selected region? ​
 * How does weather impact water flow into the Bay?​
