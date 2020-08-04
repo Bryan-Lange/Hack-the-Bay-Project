@@ -1,5 +1,8 @@
 # Project 3: Modeling Water Pollution :ocean:
-### Project Author: Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange) 
+### Project Authors: 
+Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange) <br>
+Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky) 
+Nic Ballarini
 ---
 # Booz Allen Hamilton Hackathon 2020 
 ## Guiding Questions:
