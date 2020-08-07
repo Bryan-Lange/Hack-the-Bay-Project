@@ -14,5 +14,5 @@ Nic Ballarini
 ## Target Deliverables: :droplet:
 
 - Predictive model and/or correlation analysis for explaining patterns found from condition measures expressed by water quality indicator(s) assessments in a part or all of the watershed​. (For machine learning solutions, include your model's performance metrics and your interpretation.)
-- Visualizations and code to support your model and analytical process/findings.
+- Visualizations and code to support your model and analytical process/findings
 
