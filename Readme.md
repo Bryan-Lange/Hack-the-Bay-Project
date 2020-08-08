@@ -1,8 +1,8 @@
 ## Booz Allen Hamilton Hackathon 2020 - Project 3: Modeling Water Pollution 
 ### Project Authors: 
-* <h4>Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)<h4> 
-* <h4>Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)<h4> 
-* <h4>Nic Ballarini<h4>
+* <h4>Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
+* Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
+* Nic Ballarini<h4>
 
 ## :ocean: Guiding Questions :ocean:
 
