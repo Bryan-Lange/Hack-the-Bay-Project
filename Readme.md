@@ -3,6 +3,7 @@
 * Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
 * Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
 * Jen-Li Chen - [LinkedIn](https://www.linkedin.com/in/JenliChen)
+* Marina Baker - [LinkedIn](https://www.linkedin.com/in/bakermarinam/)
 * Nic Ballarini 
 
 ## :ocean: Guiding Questions :ocean:
