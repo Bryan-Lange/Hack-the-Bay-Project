@@ -1,10 +1,8 @@
 ## Booz Allen Hamilton Hackathon 2020 - Challenge 1: Watershed Restoration Case Study 
 ### Project Authors: 
-* Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
-* Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
 * Jen-Li Chen - [LinkedIn](https://www.linkedin.com/in/JenliChen)
 * Marina Baker - [LinkedIn](https://www.linkedin.com/in/bakermarinam/)
-* Nic Ballarini 
+* Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
 
 ## :ocean: Guiding Questions :ocean:
 
