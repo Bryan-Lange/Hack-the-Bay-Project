@@ -1,10 +1,6 @@
-## Booz Allen Hamilton Hackathon 2020 - Challenge 1: Watershed Restoration Case Study 
-### Project Authors: 
-* Jen-Li Chen - [LinkedIn](https://www.linkedin.com/in/JenliChen)
-* Marina Baker - [LinkedIn](https://www.linkedin.com/in/bakermarinam/)
-* Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
+# Booz Allen Hamilton Hackathon 2020 - Challenge 1: Watershed Restoration Case Study 
 
-# 2020 Chesapeake Bay Hackathon _Hack the Bay_ 
+## 2020 Chesapeake Bay Hackathon _Hack the Bay_ 
 * Jen-Li Chen - [LinkedIn](https://www.linkedin.com/in/JenliChen)
 1. Introduction
 
@@ -65,6 +61,7 @@ For the water temperature, all of the filtered data sets for the analysis and vi
 ---
 
 ## :ocean: Keep it on the Loudoun :ocean:
+* Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
 - After looking at benthic macroinvertebrate health it became apparent that Loudoun County in Virginia had conisistently poor ratings over time and continues to decline in quality. 
 
 ![Loudoun_PowerBI](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/Loudoun_pbi.png)
