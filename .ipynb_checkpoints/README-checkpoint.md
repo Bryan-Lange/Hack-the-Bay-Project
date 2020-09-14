@@ -1,14 +1,15 @@
 ## Booz Allen Hamilton Hackathon 2020 - Challenge 1: Watershed Restoration Case Study 
 ### Project Authors: 
-* Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
-* Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
 * Jen-Li Chen - [LinkedIn](https://www.linkedin.com/in/JenliChen)
 * Marina Baker - [LinkedIn](https://www.linkedin.com/in/bakermarinam/)
-* Nic Ballarini 
+* Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
 
-## :ocean: Guiding Questions :ocean:
-
+## :ocean: Keep it on the Loudoun :ocean:
+![Loudoun](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/Annotation%202020-09-04%20155509.png)
 - From CMC data, where do you have data to tell a story about your chosen indicator trends in your region?
+After looking at benthic macroinvertebrate health it became apparent that Loudoun County in Virginia had conisistently poor ratings over time and continues to decline in quality. 
+
+![LoudounTemp](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/Loudoun_temperature.png)
 - How variable is the indicator(s) across seasons?
 - What is the rate of change you are seeing?
 - How does the pace of change at your area(s) of interest compare to our understanding of your chosen indicator change in the watershed? In those specific regions of the watershed?
