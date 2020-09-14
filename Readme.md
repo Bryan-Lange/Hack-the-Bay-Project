@@ -5,10 +5,10 @@
 * Bryan Lange - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
 
 ## :ocean: Keep it on the Loudoun :ocean:
-![Loudoun](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/Annotation%202020-09-04%20155509.png)
-- From CMC data, where do you have data to tell a story about your chosen indicator trends in your region?
-After looking at benthic macroinvertebrate health it became apparent that Loudoun County in Virginia had conisistently poor ratings over time and continues to decline in quality. 
+- After looking at benthic macroinvertebrate health it became apparent that Loudoun County in Virginia had conisistently poor ratings over time and continues to decline in quality. 
+- Research revealed that Loudoun is one of the 20 fastest growing counties in the U.S. and its population continues to increase - which impacts stream and river health that directly flows towards the D.C. area
 
+![Loudoun pH](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/Loudoun_pH.png)
 ![LoudounTemp](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/Loudoun_temperature.png)
 - How variable is the indicator(s) across seasons?
 - What is the rate of change you are seeing?
