@@ -27,11 +27,11 @@ For the water temperature, all of the filtered data sets for the analysis and vi
     * Methodology:
     
     1. Stationality: 
-        Use AF, PACF and Augmented Dickey–Fuller test to check stationality. The water temperature is stationary time-series data. ([Citation](https://github.com/marbakes/pca-arima-fun/blob/master/Data%20Processing%20%26%20Modeling.ipynb))
+        Use AF, PACF and Augmented Dickey–Fuller test to check stationality. The water temperature is stationary time-series data. ![pacf](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/pacf.png) ([Citation](https://github.com/marbakes/pca-arima-fun/blob/master/Data%20Processing%20%26%20Modeling.ipynb))
     
     2. Summary Statistics: 
         After plotting water temperature within 2015 to 2020, I found the temperature range for the winter has something interesting to look at. Especially after 2017. For Example, the following scale of the winter water temperature reveals the increasing range:
-    ![pacf](https://github.com/Bryan-Lange/Hack-the-Bay-Project/blob/master/images/pacf.png)
+    
     ![2017 Winter](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2017_winter_cbp_range.jpg)
     ![2018 Winter](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2018_winter_cbp_range.jpg)
     ![2020 Winter](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2020_winter_cbp_range.jpg)
@@ -74,4 +74,4 @@ For the water temperature, all of the filtered data sets for the analysis and vi
 
 - Visualization that tells a story about water quality and surrounding land use over time:
 
-* [Power_BI](https://app.powerbi.com/groups/me/reports/1802a5ff-c902-49d1-939a-ddbf52db966a/ReportSection)
+* [Power_BI_Link](https://app.powerbi.com/groups/me/reports/1802a5ff-c902-49d1-939a-ddbf52db966a/ReportSection)
